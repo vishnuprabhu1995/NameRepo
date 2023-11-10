@@ -1,3 +1,4 @@
+
 public class FileName {
 
 	public static void main(String[] args) {
@@ -15,6 +16,18 @@ public class FileName {
 			q++;
 		}
 		
+		
+//		<<<<<<< HEAD
+//		abc
+//		asd
+//		adsassd
+//		asdasd
+//		asdasd
+//		=======
+//		asdasd
+//		asdasd
+//		asdasd
+		
 		int temp;
 		
 		for(int i=0; i<arr.length;i++) {
@@ -30,3 +43,4 @@ public class FileName {
 		System.out.println(Arrays.toString(arr));
 		
 	}
+
